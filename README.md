@@ -26,7 +26,7 @@ pip install -r requirements.txt
    ```
 
 ## 📜 Lisensi
-Copyright (c) [Tahun] [Nama Anda atau Nama Tim]
+Copyright (c) 2025 BytemindSoftware
 
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
 
