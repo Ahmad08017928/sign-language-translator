@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+debug_images/
+logs/*
+history/*
+models/*
