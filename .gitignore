@@ -1,12 +1,3 @@
 __pycache__/
 venv/
 debug_images/
-logs/*
-!logs/.txt
-
-history/*
-!history/.png
-
-models/*
-!models/.h5
-!models/.keras
